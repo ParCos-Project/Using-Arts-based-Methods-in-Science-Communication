@@ -19,3 +19,6 @@ Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7276623.svg)](https:/
 All sections of this book are book freely available under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 Individual sections are copyright by their authors.
+
+## Citation and attribution
+Please cite the work as: Pässilä A., Wolff A., Knutas A, Tahsinur R., and Bamigbala T. (2022). Guidebook on the use of arts-based methods – updated version 3, deliverable 3.5 of the Horizon 2020 project ParCos, EC grant agreement no 872500, Lappeenranta, Finland.
