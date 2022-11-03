@@ -11,7 +11,9 @@ The communication and propagation of scientific information is easier than ever.
 The Participatory Communication of Science-project aims to explore the common practices of both generating science and communicating about it in a) citizen science activities b) science in schools and c) research activities of universities.
 
 ## Content
-You can find a permanent archival copy of the pages here in GitHub and in the linked Zenodo archive. Additionally, you can find an [interactive copy of the book in HackMD](https://hackmd.io/@art-based-methods-guidebook/HJMVIhHFL/%2FjcW-JYxQQz6noMxXwp0uAw) with additional graphics.
+You can find a permanent archival copy of the pages here in GitHub and in the [Zenodo archive](https://doi.org/10.5281/zenodo.7276031). Additionally, you can find an [interactive copy of the book in HackMD](https://hackmd.io/@art-based-methods-guidebook/HJMVIhHFL/%2FjcW-JYxQQz6noMxXwp0uAw) with additional graphics.
+
+Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7276031.svg)](https://doi.org/10.5281/zenodo.7276031)
 
 ## License
 All sections of this book are book freely available under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
